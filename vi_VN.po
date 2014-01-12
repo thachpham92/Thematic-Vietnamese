@@ -1,0 +1,749 @@
+# Copyright (C) 2013 <a href="http://themeshaper.com/">Ian Stewart</a> &amp; <a href="http://thematic4you.com/">Chris Go&szlig;mann</a>
+# This file is distributed under the GNU General Public License v2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Thematic 1.0.4\n"
+"Report-Msgid-Bugs-To: https://github.com/ThematicTheme/Thematic/issues?"
+"state=open\n"
+"POT-Creation-Date: 2013-04-02 21:19:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-01-12 19:58+0100\n"
+"Last-Translator: Thach Pham <contact@thachpham.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.6.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+
+#: archives.php:20 template-page-blog.php:22
+msgid "The template %s"
+msgstr "Mẫu %s"
+
+#: attachment.php:54 library/extensions/content-extensions.php:630
+#: library/extensions/content-extensions.php:689
+msgid "Pages:"
+msgstr "Trang:"
+
+#: author.php:67
+msgid "Email "
+msgstr ""
+
+#: comments.php:24
+msgid "Please do not load this page directly."
+msgstr "Xin đừng tải trang này trực tiếp."
+
+#: comments.php:33
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "Bài này đã được bảo vệ bằng mật khẩu. Nhập mật khẩu để xem nội dung"
+
+#: comments.php:111
+msgid "Trackbacks"
+msgstr ""
+
+#: comments.php:111
+msgctxt "%1$ and %2$s are <span> tags"
+msgid "%1$sOne%2$s Trackback"
+msgstr ""
+
+#: functions.php:194
+msgid "Primary Menu"
+msgstr "Menu Chính"
+
+#: library/extensions/comments-extensions.php:120
+msgctxt "One Comment, where %$1s and %$2s are <span> tags"
+msgid "%1$sOne%2$s Comment"
+msgstr "%1$sOne%2$s bình luận"
+
+#: library/extensions/comments-extensions.php:131
+msgid "Comments"
+msgstr "Bình luận"
+
+#. translators: comment form title
+#: library/extensions/comments-extensions.php:155
+msgid "Post a Comment"
+msgstr "Gửi bình luận"
+
+#. translators: comment reply form title, %s is author of comment
+#: library/extensions/comments-extensions.php:167
+msgid "Post a Reply to %s"
+msgstr "Gửi trả lời đến"
+
+#. translators: label for comment form textarea
+#: library/extensions/comments-extensions.php:179
+msgctxt "noun"
+msgid "Comment"
+msgstr "Bình luận"
+
+#: library/extensions/comments-extensions.php:190
+msgid "Cancel reply"
+msgstr "Bỏ trả lời"
+
+#. translators: text of comment button
+#: library/extensions/comments-extensions.php:202
+msgid "Post Comment"
+msgstr "Gửi bình luận"
+
+#: library/extensions/comments-extensions.php:228
+#: library/legacy/deprecated.php:365
+msgid "Name"
+msgstr "Tên của bạn"
+
+#: library/extensions/comments-extensions.php:228
+#: library/extensions/comments-extensions.php:229
+msgctxt "denotes required field"
+msgid "*"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:229
+#: library/legacy/deprecated.php:370
+msgid "Email"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:230
+#: library/legacy/deprecated.php:375
+msgid "Website"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:238
+#: library/legacy/deprecated.php:362
+msgctxt "%$1s and %$2s are <em> tags for emphasis on never"
+msgid "Your email is %1$snever%2$s published nor shared."
+msgstr "Email của bạn là %1$snever%2$s sẽ không được hiển thị hoặc công khai."
+
+#: library/extensions/comments-extensions.php:238
+msgctxt "%$1s and %$2s are <span> tags"
+msgid "Required fields are marked %1$s*%2$s"
+msgstr "Trường bắt buộc được đánh dấu %1$s*%2$s"
+
+#: library/extensions/comments-extensions.php:240
+#: library/legacy/deprecated.php:344
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr "Bạn phải đăng nhập để xem được bình luận."
+
+#: library/extensions/comments-extensions.php:240
+#: library/legacy/deprecated.php:344
+msgid "Log in"
+msgstr "Đăng nhập"
+
+#: library/extensions/comments-extensions.php:242
+#: library/legacy/deprecated.php:357
+msgid "Logged in as %s"
+msgstr "Đăng nhập với %s"
+
+#: library/extensions/comments-extensions.php:242
+#: library/legacy/deprecated.php:357
+msgid "Log out of this account"
+msgstr "Thoát ra tài khoản này"
+
+#: library/extensions/comments-extensions.php:242
+#: library/legacy/deprecated.php:357
+msgid "Log out?"
+msgstr "Bạn muốn thoát chứ?"
+
+#: library/extensions/comments-extensions.php:244
+#: library/legacy/deprecated.php:387
+msgctxt "%$1s and %$2s are <abbr> tags"
+msgid "You may use these %1$sHTML%2$s tags and attributes"
+msgstr "Bạn có thể sử dụng các thẻ HTML như %1$s%2$s."
+
+#: library/extensions/content-extensions.php:334
+msgid "Author Archives:"
+msgstr "Lưu trữ tác giả:"
+
+#: library/extensions/content-extensions.php:339
+#: library/extensions/header-extensions.php:103
+msgid "Category Archives:"
+msgstr "Lưu trữ chuyên mục:"
+
+#: library/extensions/content-extensions.php:347
+#: library/extensions/header-extensions.php:99
+msgid "Search Results for:"
+msgstr "Kết quả tìm kiếm cho:"
+
+#: library/extensions/content-extensions.php:352
+#: library/extensions/header-extensions.php:107
+msgid "Tag Archives:"
+msgstr "Lưu trữ thẻ:"
+
+#: library/extensions/content-extensions.php:361
+#: library/extensions/content-extensions.php:368
+msgid "Archives:"
+msgstr "Lưu trữ:"
+
+#: library/extensions/content-extensions.php:373
+msgid "Daily Archives: %s"
+msgstr "Lưu trữ mỗi ngày:"
+
+#: library/extensions/content-extensions.php:377
+msgid "Monthly Archives: %s"
+msgstr "Lưu trữ mỗi tháng:"
+
+#: library/extensions/content-extensions.php:381
+msgid "Yearly Archives: %s"
+msgstr "Lưu trữ mỗi năm:"
+
+#: library/extensions/content-extensions.php:424
+#: library/extensions/content-extensions.php:1711
+msgid "Older posts"
+msgstr "Bài cũ hơn"
+
+#: library/extensions/content-extensions.php:426
+#: library/extensions/content-extensions.php:1713
+msgid "Newer posts"
+msgstr "Bài mới hơn"
+
+#: library/extensions/content-extensions.php:888
+#: library/extensions/content-extensions.php:1423
+msgid "Edit post"
+msgstr "Sửa bài"
+
+#. translators: post edit link
+#: library/extensions/content-extensions.php:890
+#: library/extensions/content-extensions.php:1425
+#: library/extensions/discussion-extensions.php:37
+#: library/extensions/discussion.php:84 links.php:52 page.php:52
+#: template-page-archives.php:55 template-page-fullwidth.php:53
+msgid "Edit"
+msgstr "Sửa"
+
+#: library/extensions/content-extensions.php:916
+msgctxt "Default title for untitled posts"
+msgid "(Untitled)"
+msgstr "(Chưa có tiêu đề)"
+
+#: library/extensions/content-extensions.php:921
+#: library/extensions/header-extensions.php:111
+msgid "Not Found"
+msgstr "Không tìm thấy"
+
+#: library/extensions/content-extensions.php:926
+#: library/extensions/content-extensions.php:1145
+#: library/extensions/content-extensions.php:1149
+#: library/extensions/content-extensions.php:1381
+msgid "Permalink to %s"
+msgstr "Liên kết tới %s"
+
+#: library/extensions/content-extensions.php:987
+msgid "By"
+msgstr "Đăng bởi"
+
+#. translators: author name
+#: library/extensions/content-extensions.php:998
+msgid "View all posts by %s"
+msgstr "Xem toàn bộ bài của %s"
+
+#: library/extensions/content-extensions.php:1027
+msgid "Published:"
+msgstr "Ngày đăng:"
+
+#: library/extensions/content-extensions.php:1204
+msgid "Archives by Category"
+msgstr "Lưu trữ trữ bởi chuyên mục"
+
+#: library/extensions/content-extensions.php:1235
+msgid "Archives by Month"
+msgstr "Lưu trữ bởi tháng"
+
+#: library/extensions/content-extensions.php:1296
+msgid ""
+"Apologies, but we were unable to find what you were looking for. Perhaps "
+"searching will help."
+msgstr ""
+"Xin lỗi nhưng chúng tôi không thể tìm ra nội dung mà bạn cần xem. Hãy thử "
+"tính năng tìm kiếm biết đâu nó có thể giúp bạn tìm ra tốt hơn?"
+
+#: library/extensions/content-extensions.php:1302 search.php:70
+msgid "Find"
+msgstr "Tìm"
+
+#. translators: %s is right angle brackets
+#: library/extensions/content-extensions.php:1321
+msgid "Read More %s"
+msgstr "Xem thêm %s"
+
+#. translators: %s is custom post type singular name, wrapped in link tags
+#: library/extensions/content-extensions.php:1373
+msgid "Browse the %s archive."
+msgstr "Duyệt lưu trữ %s."
+
+#. translators: %s is custom post type singular name
+#: library/extensions/content-extensions.php:1375
+msgid "Permalink to %s Archive"
+msgstr "Liên kết đến lưu trữ %s."
+
+#: library/extensions/content-extensions.php:1381
+msgctxt "1s and 2s are the a href link wrappers, do not reverse them"
+msgid "Bookmark the %1$spermalink%2$s."
+msgstr "Đánh dấu %1$spermalink%2$s."
+
+#. translators: %s is postfooter categories
+#: library/extensions/content-extensions.php:1539
+msgid "This entry was posted in %s"
+msgstr "Bài này được lưu trong mục"
+
+#. translators: %s is postfooter categories
+#: library/extensions/content-extensions.php:1550
+msgid "Also posted in %s"
+msgstr "và cũng trong %s"
+
+#. translators: %s is postfooter categories
+#: library/extensions/content-extensions.php:1554
+msgid "Posted in %s"
+msgstr "Đăng trong %s"
+
+#: library/extensions/content-extensions.php:1580
+msgid "This entry is tagged"
+msgstr "Bài này được đánh dấu trong thẻ"
+
+#: library/extensions/content-extensions.php:1583
+msgid "and tagged"
+msgstr "và trong thẻ"
+
+#: library/extensions/content-extensions.php:1586
+msgid "Also tagged"
+msgstr "Cũng trong thẻ"
+
+#: library/extensions/content-extensions.php:1588
+msgid "Tagged"
+msgstr "Thẻ: "
+
+#: library/extensions/content-extensions.php:1618
+#: library/extensions/content-extensions.php:1624
+msgid "Comment on %s"
+msgstr "Bình luận trong %s"
+
+#. translators: number of comments and trackbacks
+#: library/extensions/content-extensions.php:1620
+msgid "%s Response"
+msgid_plural "%s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/extensions/content-extensions.php:1625
+msgid "Leave a comment"
+msgstr "Để lại bình luận"
+
+#: library/extensions/content-extensions.php:1628
+msgid "Comments closed"
+msgstr "Bình luận đã bị đóng"
+
+#: library/extensions/content-extensions.php:1652
+msgctxt ""
+"1s and 2s are the a href link wrappers, do not reverse them. 3s is trackback "
+"url."
+msgid "%1$sPost a comment%2$s or leave a trackback: %3$s"
+msgstr "%1$sĐăng một bình luận%2$s hoặc để lại một trackback: %3$s"
+
+#: library/extensions/content-extensions.php:1653
+#: library/extensions/content-extensions.php:1668
+msgid "Post a comment"
+msgstr "Đăng bình luận"
+
+#: library/extensions/content-extensions.php:1657
+#: library/extensions/content-extensions.php:1664
+msgid "Trackback URL for your post"
+msgstr "Trackback URL cho bài của bạn"
+
+#: library/extensions/content-extensions.php:1658
+#: library/extensions/content-extensions.php:1665
+msgid "Trackback URL"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1661
+msgctxt "%s is trackback url, wrapped in link tags"
+msgid "Comments are closed, but you can leave a trackback: %s"
+msgstr "Bình luận đã bị đóng, nhưng bạn có thể để lại trackbacks: %s"
+
+#: library/extensions/content-extensions.php:1668
+msgctxt "1s and 2s are the a href link wrappers, do not reverse them"
+msgid "Trackbacks are closed, but you can %1$spost a comment%2$s."
+msgstr "Trackback đã bị đóng, nhưng bạn có thể %1$spost a comment%2$s."
+
+#: library/extensions/content-extensions.php:1670
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Trackback và bình luận đã bị đóng."
+
+#: library/extensions/discussion-extensions.php:27
+msgctxt "Posted {$date} at {$time}"
+msgid "Posted %s at %s"
+msgstr "Ngày đăng: %s lúc %s"
+
+#: library/extensions/discussion-extensions.php:31
+msgid "Permalink to this comment"
+msgstr "Liên kết đến bình luận này"
+
+#: library/extensions/discussion-extensions.php:31
+msgid "Permalink"
+msgstr "Liên kết"
+
+#: library/extensions/discussion-extensions.php:36
+msgid "Edit comment"
+msgstr "Sửa bình luận"
+
+#: library/extensions/discussion.php:37
+msgid "Your comment is awaiting moderation"
+msgstr "Bình luận của bạn đang chờ duyệt."
+
+#: library/extensions/discussion.php:52
+msgid "Reply"
+msgstr "Trả lời"
+
+#: library/extensions/discussion.php:53
+msgid "Log in to reply."
+msgstr "Đăng nhập để bình luận."
+
+#: library/extensions/discussion.php:80
+msgctxt "By {$authorlink} on {$date} at {$time}"
+msgid "By %1$s on %2$s at %3$s"
+msgstr "Đăng bởi %1$s vào ngày %2$s lúc %3$s"
+
+#: library/extensions/discussion.php:90
+msgid "Your trackback is awaiting moderation"
+msgstr "Trackback của bạn đang được chờ duyệt"
+
+#: library/extensions/header-extensions.php:319
+#: library/extensions/widgets.php:157
+msgid "Posts RSS feed"
+msgstr "RSS Feed"
+
+#: library/extensions/header-extensions.php:343
+#: library/extensions/widgets.php:158
+msgid "Comments RSS feed"
+msgstr "RSS Feed bình luận"
+
+#: library/extensions/header-extensions.php:667
+msgid "Skip navigation to the content"
+msgstr "Bỏ qua thanh điều hướng để xem nội dung."
+
+#: library/extensions/header-extensions.php:667
+msgid "Skip to content"
+msgstr "Xem nội dung"
+
+#: library/extensions/helpers.php:50 library/extensions/helpers.php:69
+msgid "There is no excerpt because this is a protected post."
+msgstr "Bài này không có bản rút gọn bởi vì bài này đã được bảo vệ."
+
+#: library/extensions/theme-options.php:50
+msgid "Index Insert Position"
+msgstr "Vị trí chèn vào index"
+
+#: library/extensions/theme-options.php:51
+msgid "Info on Author Page"
+msgstr "Thông tin ở trang tác giả"
+
+#: library/extensions/theme-options.php:52
+msgid "Text in Footer"
+msgstr "Chữ ở Footer"
+
+#: library/extensions/theme-options.php:56
+msgid "Remove Legacy Options"
+msgstr "Xóa những tùy chọn thừa."
+
+#: library/extensions/theme-options.php:170
+msgid "Theme Options"
+msgstr "Tùy chọn theme"
+
+#: library/extensions/theme-options.php:201
+msgid "For more information:"
+msgstr "Xem thêm thông tin:"
+
+#: library/extensions/theme-options.php:203
+msgid "For support:"
+msgstr "Hỗ trợ:"
+
+#: library/extensions/theme-options.php:205
+msgid "forums"
+msgstr "diễn đàn"
+
+#: library/extensions/theme-options.php:209
+msgid ""
+"The options below are enabled by the Thematic Theme framework and/or a child "
+"theme."
+msgstr ""
+"Những tùy chọn bên dưới được bật bởi Thematic Theme Framework và/hoặc bởi "
+"child theme."
+
+#: library/extensions/theme-options.php:210
+msgid ""
+"New options can be added and the default ones removed by creating a child "
+"theme. This contextual help can be customized in a child theme also."
+msgstr ""
+"Một tùy chọn mới có thể đã được thêm vào và mặc định đã bị xóa bởi việc tạo "
+"một child theme mới. Và cái dòng chữ hỗ trợ này cũng có thể tùy biến trong "
+"child theme."
+
+#: library/extensions/theme-options.php:214
+msgid "Overview"
+msgstr "Xem tổng thể"
+
+#: library/extensions/theme-options.php:235
+msgctxt "{$current theme} Theme Options"
+msgid "%s Theme Options"
+msgstr "%s tùy chọn."
+
+#: library/extensions/theme-options.php:273
+msgid ""
+"The Index Insert widget area will appear after this post number. Entering "
+"nothing or 0 will disable this feature."
+msgstr ""
+"Vị trí chèn vào index là widget sẽ được áp dụng vào sau mỗi số bài viết. "
+"Không nhập gì hoặc để là 0 để tắt tính năng này."
+
+#: library/extensions/theme-options.php:286
+msgctxt "%1$s and %2$s are <a> tags"
+msgid ""
+"Display a %1$smicroformatted vCard%2$s with the author's avatar, bio and "
+"email on the author page."
+msgstr ""
+"Hiển thị %1$smicroformatted vCard%2$s cho avatar tác giả, thông tin và email "
+"ở trang tác giả."
+
+#: library/extensions/theme-options.php:299
+msgctxt "%s are shortcode tags"
+msgid ""
+"You can use HTML and shortcodes in your footer text. Shortcode examples: %s"
+msgstr ""
+"Bạn có thể sử dụng HTML và shortcodes trong footer. Ví dụ cho shortcode: %s"
+
+#: library/extensions/theme-options.php:318
+msgctxt "{$current theme} Theme Options"
+msgid ""
+"%s Theme Options have been upgraded to an improved format. Remove the legacy "
+"options from the database."
+msgstr ""
+"%s tùy chọn theme đã nâng cấp để trình bày tốt hơn. Xóa những tùy chọn không "
+"cần thiết trong database."
+
+#: library/extensions/theme-options.php:345
+msgid ""
+"The index insert position value must be a number equal to or greater than "
+"zero. This setting has been reverted to the previous value."
+msgstr ""
+"Giá trị cho vị trí chèn vào index phải là một số tự nhiên hoặc lớn hơn 0."
+
+#: library/extensions/widgets-extensions.php:34
+msgid "To search, type and hit enter"
+msgstr "Nhập từ khóa tìm kiếm và enter"
+
+#: library/extensions/widgets-extensions.php:40
+#: library/extensions/widgets.php:56 library/extensions/widgets.php:61
+msgid "Search"
+msgstr "Tìm"
+
+#: library/extensions/widgets-extensions.php:70
+msgid "Primary Aside"
+msgstr "Thanh bên chính"
+
+#: library/extensions/widgets-extensions.php:72
+msgid "The primary widget area, most often used as a sidebar."
+msgstr ""
+"Thanh bên chính là thanh bên cạnh khung nội dung, thường gọi là Sidebar."
+
+#: library/extensions/widgets-extensions.php:85
+msgid "Secondary Aside"
+msgstr "Thanh bên phụ"
+
+#: library/extensions/widgets-extensions.php:87
+msgid "The secondary widget area, most often used as a sidebar."
+msgstr "Chức năng tương tự như Thanh bên chính."
+
+#: library/extensions/widgets-extensions.php:100
+msgid "1st Subsidiary Aside"
+msgstr "Khu vực Footer 1"
+
+#: library/extensions/widgets-extensions.php:102
+msgid "The 1st widget area in the footer."
+msgstr "Khu vực chèn widget số 1 ở footer."
+
+#: library/extensions/widgets-extensions.php:115
+msgid "2nd Subsidiary Aside"
+msgstr "Khu vực footer 2"
+
+#: library/extensions/widgets-extensions.php:117
+msgid "The 2nd widget area in the footer."
+msgstr "Khu vực chèn widget nằm ở footer số 2"
+
+#: library/extensions/widgets-extensions.php:130
+msgid "3rd Subsidiary Aside"
+msgstr "Khu vực footer 3"
+
+#: library/extensions/widgets-extensions.php:132
+msgid "The 3rd widget area in the footer."
+msgstr "Khu vực chèn widget nằm ở footer số 2"
+
+#: library/extensions/widgets-extensions.php:145
+msgid "Index Top"
+msgstr "Trên bài đầu tiên ở Index"
+
+#: library/extensions/widgets-extensions.php:147
+msgid "The top widget area displayed on the index page."
+msgstr "Khu vực chèn widget nằm trên bài viết đầu tiên ở trang chủ."
+
+#: library/extensions/widgets-extensions.php:160
+msgid "Index Insert"
+msgstr "Chèn vào Index"
+
+#: library/extensions/widgets-extensions.php:162
+msgid "The widget area inserted after x posts on the index page."
+msgstr ""
+"Vị trí chèn widget sau bài viết số x ở trang chủ. Thiết lập trong Tùy chọn "
+"theme."
+
+#: library/extensions/widgets-extensions.php:175
+msgid "Index Bottom"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:177
+msgid "The bottom widget area displayed on the index page."
+msgstr "Vị trí chèn widget dưới bài cuối cùng tại trang chủ."
+
+#: library/extensions/widgets-extensions.php:190
+msgid "Single Top"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:192
+msgid "The top widget area displayed on a single post."
+msgstr "Khu vực chèn widget nằm trên bài viết trong trang nội dung."
+
+#: library/extensions/widgets-extensions.php:205
+msgid "Single Insert"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:207
+msgid ""
+"The widget area inserted between the post and the comments on a single post."
+msgstr "Khu vực chèn widget nằm giữa khu vực bình luận và nội dung bài viết."
+
+#: library/extensions/widgets-extensions.php:220
+msgid "Single Bottom"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:222
+msgid "The bottom widget area displayed on a single post."
+msgstr "Khu vực chèn widget nằm dưới bài viết trong trang bài viết."
+
+#: library/extensions/widgets-extensions.php:235
+msgid "Page Top"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:237
+msgid "The top widget area displayed on a page."
+msgstr "Khu vực chèn vào bên trên nội dung trong Page"
+
+#: library/extensions/widgets-extensions.php:250
+msgid "Page Bottom"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:252
+msgid "The bottom widget area displayed on a page."
+msgstr "Khu vực chèn widget vào bên dưới nội dung trong Page"
+
+#: library/extensions/widgets.php:55
+msgid "A search form for your blog"
+msgstr ""
+
+#: library/extensions/widgets.php:77 library/extensions/widgets.php:132
+#: library/extensions/widgets.php:175
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: library/extensions/widgets.php:100
+msgid "Log in/out and admin"
+msgstr "Thoát ra"
+
+#: library/extensions/widgets.php:101 library/extensions/widgets.php:106
+msgid "Meta"
+msgstr ""
+
+#: library/extensions/widgets.php:145
+msgid "Links to your posts and comments feed"
+msgstr "Liên kết đến bài viết của bạn và feed của bình luận."
+
+#: library/extensions/widgets.php:146 library/extensions/widgets.php:151
+msgid "RSS Links"
+msgstr "Liên kết RSS"
+
+#: library/extensions/widgets.php:157
+msgid "All posts"
+msgstr "Tất cả bài viết"
+
+#: library/extensions/widgets.php:158
+msgid "All comments"
+msgstr "Tất cả bình luận"
+
+#: library/legacy/deprecated.php:357
+msgid "Logged in as"
+msgstr "Đã đăng nhập là "
+
+#: library/legacy/deprecated.php:365 library/legacy/deprecated.php:370
+msgid "<span class=\"required\">*</span>"
+msgstr ""
+
+#: page.php:50 template-page-fullwidth.php:51
+msgid "Pages: "
+msgstr "Trang: "
+
+#: search.php:56
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: search.php:60
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Xin lỗi nhưng không tìm thấy nội dung phù hợp với từ khóa tìm kiếm của bạn. "
+"Hãy thử với một vài từ khóa khác."
+
+#: template-page-blog.php:22
+msgid "You can include a %s in a childtheme"
+msgstr "Bạn có thể thêm %s trong child theme."
+
+#. Theme Name of the plugin/theme
+msgid "Thematic"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://thematictheme.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The ultimate in SEO-ready themes, Thematic is a highly extensible, WordPress "
+"Theme Framework featuring 13 widget-ready areas, drop-down menus, grid-based "
+"layout samples, plugin integration, shortcodes for your footer, &amp; a "
+"whole lot more. Perfect for any blog and <strong><em>the</em></strong> "
+"starting point for theme development."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid ""
+"<a href=\"http://themeshaper.com/\">Ian Stewart</a> &amp; <a href=\"http://"
+"thematic4you.com/\">Chris Go&szlig;mann</a>"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeshaper.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Deprecated Archives Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Links Page"
+msgstr "Trang liên kết"
+
+#. Template Name of the plugin/theme
+msgid "Archives Page"
+msgstr "Trang lưu trữ"
+
+#. Template Name of the plugin/theme
+msgid "Deprecated Blog Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Toàn màn hình"
